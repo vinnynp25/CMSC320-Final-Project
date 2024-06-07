@@ -1,2 +1,2 @@
 # CMSC320-Final-Project
-# Vincent Nguyen and Niramay Patel
+Vincent Nguyen and Niramay Patel
